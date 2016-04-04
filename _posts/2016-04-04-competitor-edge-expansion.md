@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Clo strives to provide the ultimate experience in browsing what people are wearing daily and figuring out what to wear for special occasions through a new social media platform. What gives Clo the competition edge include:'
-datePublished: '2016-04-04T23:31:15.029Z'
-dateModified: '2016-04-04T23:30:21.242Z'
+datePublished: '2016-04-04T23:31:48.982Z'
+dateModified: '2016-04-04T23:31:16.328Z'
 title: Competitor Edge + Expansion
 author: []
 authors: []
@@ -42,20 +42,16 @@ Introducing the "I Do Me" Campaign, a mission to be comfortable in your skin and
 
 * Scan your body dimensions into the app and try on clothes anywhere and at any time
 
-* Scanners will be developed in forms of kiosks that will be available in major malls
+* Scanners will be developed in forms of kiosks that will be available in major malls around the world. The 3D body imaging will be sent to your profile on your app instantly!
 
-around the world. The 3D body imaging will be sent to your profile on your app instantly!
+* Explore with direct access to stores from all over the world, from fashion boutique to local vendors 
 
-Explore with direct access to stores from all over the world, from fashion boutique to local vendors 
+* Connect to app and use in-app features
 
-Connect to app and use in-app features
+* Share your "virtual body" with a friend and allow your friends and family to style you and gift you the perfect fit 
 
-Share your "virtual body" with a friend and allow your friends and family to style you and 
+* Store what you bought/own in your personal Clo profile
 
-gift you the perfect fit
+* Attend live fashion shows, openings
 
-Store what you bought/own in your personal Clo profile
-
-Attend live fashion shows, openings
-
-Live through private collections, runway pieces
+* Live through private collections, runway pieces
