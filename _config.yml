@@ -1,0 +1,29 @@
+name: Clo BP
+favicon: null
+layout_spectrum: 0.7097858637571335
+typography_spectrum: 0.398291407385841
+title: Clo Business Proposal
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2722328985109925
+  lightness: 0.45354141225107014
+  saturation: 0.34678333974443376
+  rhythmicContrast: 0.4102456846740097
+purpose: []
