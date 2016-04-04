@@ -4,8 +4,15 @@
         <description><![CDATA[Clo Business Proposal]]></description>
         <link>https://thegrid.ai/clo-business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 23:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 23:19:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clo-business/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cost Breakdown]]></title>
+            <description><![CDATA[<article><h1>Cost Breakdown</h1><p>$25/year Google’s Android</p></article>]]></description>
+            <link>https://thegrid.ai/clo-business/cost-breakdown/index.html</link>
+            <guid isPermaLink="false">40e67be3-5113-45e0-89e9-3051a718478d</guid>
+            <pubDate>Mon, 04 Apr 2016 23:19:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Critical Risks]]></title>
             <description><![CDATA[<article><h1>Critical Risks</h1><p>Competition Adaption</p></article>]]></description>
