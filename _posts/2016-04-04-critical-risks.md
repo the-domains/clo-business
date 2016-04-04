@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-04T23:17:45.383Z'
-dateModified: '2016-04-04T23:17:44.911Z'
+description: Competition Adaption
+datePublished: '2016-04-04T23:55:23.489Z'
+dateModified: '2016-04-04T23:52:56.148Z'
 title: Critical Risks
+author: []
+sourcePath: _posts/2016-04-04-critical-risks.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-04-04-critical-risks.md
-published: true
 url: critical-risks/index.html
-_type: Article
+_type: WebPage
 
 ---
 _Competition Adaption_
