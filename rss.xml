@@ -2,10 +2,21 @@
     <channel>
         <title><![CDATA[Clo Business Proposal]]></title>
         <description><![CDATA[Clo Business Proposal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clo-business/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 22:58:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 22:59:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clo-business/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Objectives]]></title>
+            <description><![CDATA[<article><h1>Objectives</h1><p>Have you ever wondered what to wear for a certain occasion? Have you ever wondered where
+someone shopped for their outfit? Here is the new easy way to explore and shop the world’s latest
+trends and styles. Browse through a wide range of styles from other users in your area to designers
+and celebrities around the world.
+</p></article>]]></description>
+            <link>https://thegrid.ai/clo-business/objectives/index.html</link>
+            <guid isPermaLink="false">f3134939-6a1b-4b22-bacf-9898e4383235</guid>
+            <pubDate>Mon, 04 Apr 2016 22:59:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our goal is to create a community in which dressing and shopping will be easier than it has ever been
 before. Clo is a revolutionary app that allows everyone to categorize their own style; making each
@@ -17,7 +28,7 @@ before. Clo is a revolutionary app that allows everyone to categorize their own 
 article of clothing browsable and obtainable to the world. This service helps people to explore their
 individual style and allows them to get a sense of when and where to wear their desired attire.
 </h1><p></p></article>]]></description>
-            <link>undefinedmission/index.html</link>
+            <link>https://thegrid.ai/clo-business/mission/index.html</link>
             <guid isPermaLink="false">98380e33-860e-4d07-8d10-4c7458540d5f</guid>
             <pubDate>Mon, 04 Apr 2016 22:57:43 GMT</pubDate>
         </item>
