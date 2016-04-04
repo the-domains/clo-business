@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Internal + External
-datePublished: '2016-04-04T23:36:14.176Z'
-dateModified: '2016-04-04T23:35:26.523Z'
+description: Launch Event with Open Invitation
+datePublished: '2016-04-04T23:38:21.115Z'
+dateModified: '2016-04-04T23:36:18.014Z'
 title: Marketing Strategy
 author: []
+sourcePath: _posts/2016-04-04-marketing-strategy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-marketing-strategy.md
-published: true
 url: marketing-strategy/index.html
 _type: Article
 
