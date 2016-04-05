@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'As of January 2014, 90% of American adults own a cell phone and of that 90%, 58% of them have a smartphone with access to the internet. 42% of American adults own a tablet computer. People with access to a smartphone and tablet now spend an average of 2 hours and 57 minutes on them each day. The roles of a “second screen” between smartphone/tablet and television increased 48.6% from 2012 to 2014.'
-datePublished: '2016-04-04T23:54:32.208Z'
-dateModified: '2016-04-04T23:54:19.083Z'
+datePublished: '2016-04-05T00:58:24.487Z'
+dateModified: '2016-04-04T23:54:42.818Z'
 title: Industry Overview
 author: []
 sourcePath: _posts/2016-04-04-industry-overview.md
