@@ -1,9 +1,10 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: >
   Have you ever wondered what to wear for a certain occasion? Have you ever
@@ -16,20 +17,19 @@ description: >
   your area to designers
 
   and celebrities around the world.
-datePublished: '2016-04-04T22:59:17.444Z'
-dateModified: '2016-04-04T22:58:40.865Z'
+datePublished: '2016-04-05T00:58:42.780Z'
+dateModified: '2016-04-04T23:51:56.216Z'
 title: Objectives
 author: []
+sourcePath: _posts/2016-04-04-objectives.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-objectives.md
-published: true
-url: objectives/index.html
-_type: Article
+_type: Blurb
 
 ---
 Have you ever wondered what to wear for a certain occasion? Have you ever wondered where
