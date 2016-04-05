@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-04T23:19:08.958Z'
-dateModified: '2016-04-04T23:19:08.175Z'
+description: $25/year Google’s Android
+datePublished: '2016-04-05T00:58:11.764Z'
+dateModified: '2016-04-04T23:52:50.399Z'
 title: Cost Breakdown
 author: []
+sourcePath: _posts/2016-04-04-cost-breakdown.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-cost-breakdown.md
-published: true
 url: cost-breakdown/index.html
-_type: Article
+_type: WebPage
 
 ---
 * Developer Accounts
