@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Moving from Orange County with three of the greatest malls surrounding your city to Champaign-Urbana with one insufficient mall is hard. But what if a person was able to shop at those malls without actually being present at the mall. This led me to the idea of building a virtual mall.
-datePublished: '2016-04-04T23:21:26.066Z'
-dateModified: '2016-04-04T23:21:17.022Z'
+datePublished: '2016-04-05T00:58:03.046Z'
+dateModified: '2016-04-04T23:52:28.827Z'
 title: Opportunity
 author: []
+sourcePath: _posts/2016-04-04-opportunity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-opportunity.md
-published: true
 url: opportunity/index.html
-_type: Article
+_type: WebPage
 
 ---
 Moving from Orange County with three of the greatest malls surrounding your city to Champaign-Urbana with one insufficient mall is hard. But what if a person was able to shop at those malls without actually being present at the mall. This led me to the idea of building a virtual mall.
