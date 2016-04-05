@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Competition Adaption
-datePublished: '2016-04-04T23:55:23.489Z'
-dateModified: '2016-04-04T23:52:56.148Z'
+datePublished: '2016-04-05T00:58:17.607Z'
+dateModified: '2016-04-04T23:55:35.519Z'
 title: Critical Risks
 author: []
 sourcePath: _posts/2016-04-04-critical-risks.md
