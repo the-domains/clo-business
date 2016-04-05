@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Clo strives to provide the ultimate experience in browsing what people are wearing daily and figuring out what to wear for special occasions through a new social media platform. What gives Clo the competition edge include:'
-datePublished: '2016-04-04T23:31:48.982Z'
-dateModified: '2016-04-04T23:31:16.328Z'
+datePublished: '2016-04-05T00:57:41.904Z'
+dateModified: '2016-04-04T23:53:49.505Z'
 title: Competitor Edge + Expansion
 author: []
+sourcePath: _posts/2016-04-04-competitor-edge-expansion.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-competitor-edge-expansion.md
-published: true
 url: competitor-edge-expansion/index.html
-_type: Article
+_type: WebPage
 
 ---
 Clo strives to provide the ultimate experience in browsing what people are wearing daily and figuring out what to wear for special occasions through a new social media platform. What gives Clo the competition edge include:
