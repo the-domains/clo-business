@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Launch Event with Open Invitation
-datePublished: '2016-04-04T23:53:35.944Z'
-dateModified: '2016-04-04T23:38:27.244Z'
+datePublished: '2016-04-05T00:57:49.112Z'
+dateModified: '2016-04-04T23:53:45.262Z'
 title: Marketing Strategy
 author: []
 sourcePath: _posts/2016-04-04-marketing-strategy.md
